@@ -1,0 +1,6 @@
+**/*.sw?
+/target
+/download
+/src/html/vendor
+/src/html/favicon.ico
+/src/html/image
